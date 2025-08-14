@@ -41,7 +41,7 @@ and other big legacy (i.e. `OS/2` executable 16/32-bit model). Last time gone in
     - T-SQL (Microsoft SQL Server)
     - PostgreSQL
 
-**Not interested** in game developing, mobile developing, web3 and AI integrations.
+I'm **NOT interested** in game developing, mobile developing, web3 and AI integrations.
 
 ### Environment
 
